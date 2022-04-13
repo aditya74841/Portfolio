@@ -1,0 +1,40 @@
+ /* .container1{
+background-color: aqua; 
+} */
+body{
+    background-color: black;
+}
+.container{
+    width: 1024px;
+   height:2.5em;
+    padding-top: 20px;
+    justify-content: space-between;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+header {
+  background-color: rgb(60, 126, 183);
+}
+a{
+    text-decoration: none;
+}
+.p1
+{
+    color: white;
+    font: 500px;
+    padding-right:100px;
+    font-size: 20px;
+}
+.n2
+{
+color: white;
+    /* margin-right: 30px;
+    margin-left: 20px; */
+    margin: 0px 10px;
+}
+.btno{
+   /* margin-left: auto; */
+   /* margin-right: auto; */
+   margin-left: 100px;
+}

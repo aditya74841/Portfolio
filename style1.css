@@ -1,0 +1,68 @@
+.container{
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: bisque;
+}
+.flexi{
+    display: flex;
+}
+.center{
+    text-align: center;
+}
+.intro1{
+    background-color: rgb(236, 178, 178);
+    width: 20%;
+    height: 500px;
+}
+.intro2{
+    background-color: magenta;
+    width: 40%;
+  height: 500px;
+}
+.intro3{
+    background-color: aquamarine;
+    width: 40%;
+    height: 500px;
+}
+.about{
+    /* background-color: rgb(69, 63, 55); */
+    width: 1024px;
+    height: 60%;
+}
+.ab1{
+    background-color: rgb(68, 68, 162);
+    width: 50%;
+    height: 220px;
+}
+.ab2
+{
+    width: 50%;
+    height: 60%;
+    background-color: darkgreen;
+}
+.ab2_1{
+
+  width: 145px;
+  height: 100px;
+  background-color: rgb(222, 231, 222);
+  margin-top: 50px;
+  margin-left: 45px;
+  margin-right: 30px;
+   border-radius: 40px;
+}
+.learnings{
+     background-color: rgb(163, 148, 128);
+     width: 1024px;
+     height: 400px; 
+}
+.l1{
+    background-color: rgb(213, 164, 164);
+    width: 400px;
+    height: 400px;
+}
+.l2{
+    background-color: rgb(81, 63, 63);
+    width: 400px;
+    height: 400px;
+}
